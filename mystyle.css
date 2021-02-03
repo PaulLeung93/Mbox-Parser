@@ -1,0 +1,23 @@
+#index {
+font-family: Arial, Helvetica, sans-serif;
+border-collapse: collapse;
+width:25%;
+
+}
+
+#index th,tr:hover{
+    background-color: #ddd;
+
+    
+}
+
+#index td,th{
+
+    border: 1.5px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: middle;
+    padding:5px;
+}
+
+
+
